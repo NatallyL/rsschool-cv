@@ -1,3 +1,3 @@
 # NatallyL
 
-<https://natallyl.github.io/rsschool-cv/cv>
+<https://NatallyL.github.io/rsschool-cv/cv>
