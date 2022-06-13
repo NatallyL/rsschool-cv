@@ -1,12 +1,10 @@
 # **Natallia Lednik**
 
-![](file:///E:/ПРОГРАММИРОВАНИЕ/1615437534813-обр.jpg)
-
-## **Contact:**
+## **Contacts:**
 
 - Phone: +375 44 7520109
 - E-mail: NatashechkaL86@yandex.by
-- Discord: NatallyL#1575
+- C
 - GitHub: NatallyL
 - Instagram: smak_minsk
 
@@ -25,5 +23,5 @@ the first draft CV
 
 ## **Languages:**
 
-Russian, Belorussia - native
+Russian, Belorussian - native
 English - A2
